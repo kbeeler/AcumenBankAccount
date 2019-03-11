@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\bin\Debug\Acumen.Bank.Account.dll
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\bin\Debug\Acumen.Bank.Account.pdb
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\obj\Debug\Acumen.Bank.Account.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\obj\Debug\Acumen.Bank.Account.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\obj\Debug\Acumen.Bank.Account.dll
+C:\Users\Kevin\Desktop\AcumenCodeAssessment\recruiting-csharp-acumenbank\Acumen.Bank.Account\obj\Debug\Acumen.Bank.Account.pdb
